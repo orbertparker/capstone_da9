@@ -1,10 +1,10 @@
 rank			1-5 have the highest EBLL, 6-10 have the lowest EBLL
-avg_ebll			Average EBLL in children, 2018-2022
+avg_ebll		Average EBLL in children, 2018-2022
 poverty_avg		Average percentage of population below poverty line, 2012-2021
 homes_before_1979	Percentage of available homes built before 1979
-premature_death	Age adjusted premature deaths per 100,000
+premature_death		Age adjusted premature deaths per 100,000
 high_school		Percentage of population that have completed high school or an equivalency
 associates_degree	Percentage of population that have completed an associate's degree
 bachelors_degree	Percentage of population that have completed a bachelor's degree
 cognitive		Percentage of population with a cognitive disability
-infant_mortality		Number of infant deaths per 1,000 live births
+infant_mortality	Number of infant deaths per 1,000 live births
