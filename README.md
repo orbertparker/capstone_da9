@@ -17,4 +17,4 @@
 
 ## Problems and Hurdles
 
-#### The key metric of my analysis was the EBLL, or Elevated Blood Lead Levels. Every year, the Tennessee Department of Health performs blood lead level testing for a selection of children under 6 in all 95 Tennessee counties. 
+#### The key metric of my analysis was the EBLL, or Elevated Blood Lead Levels. Every year, the Tennessee Department of Health performs blood lead level testing for a selection of children under 6 in all 95 Tennessee counties. When an EBLL meeting or exceeding 5 micrograms of lead per deciliter of blood, it's logged in the DOH's own internal database in addition to the CDC and The University of Tennessee's LeadTRK system. Test test test.
